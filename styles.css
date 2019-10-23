@@ -2,7 +2,7 @@
 html{
   margin-top: 20px;
   margin-left: 100px;
-  margin-right: 100px;
+  margin-right: 50px;
 }
 body {
   font-family: 'Helvetica','Arial', sans-serif;
@@ -85,6 +85,7 @@ href{
 figcaption {
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
+  color: #5C6A70;
 }
 
 a {
